@@ -12,6 +12,7 @@
     <modules>
         <module>j1902_springcloud_eureka_server_8761</module>
         <module>j1902_springcloud_produce_login_10005</module>
+        <module>j1902_springcloud_consumer_10006</module>
         <module>j1902_springcloud_consuser_10008</module>
     </modules>
 
